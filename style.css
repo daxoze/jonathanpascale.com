@@ -6,5 +6,7 @@ body {
   font-weight: normal;
   font-size: 36px;
   font-variant: normal;
-  text-align: center;
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
